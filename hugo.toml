@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 9
+  showMenuItems = 7
 
   # show selector to switch language
   showLanguageSelector = false
@@ -74,7 +74,7 @@ defaultContentLanguageInSubdir = false
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "aperture."
+    title = "aperture"
     subtitle = "it's the experience that matters."
     owner = "irvin sachdeva"
     keywords = "test"
