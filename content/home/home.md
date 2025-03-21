@@ -2,7 +2,7 @@
 *f\*ck the destination. it's all about the experience.* \
 \
 **hey there!** \
-**this is irvin, and welcome to aperture —— _the lens of a 19 yo koinophobic from iit madras._** \
+**this is irvin, and welcome to aperture —— _the lens of a 19 yo koinophobic studying at iit madras._** \
 \
 the name '_aperture_' represents the field of view of the lens i view the world with. 
 and my life's goal? - to just keep explanding this aperture, _**expanding those horizons, conquering it all.**_ \
