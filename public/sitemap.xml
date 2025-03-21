@@ -3,22 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/mapit-19e0ce9f6b8e802a85d6cf96fa020590/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/light/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/theme/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/build/</loc>
   </url><url>
@@ -26,12 +10,16 @@
   </url><url>
     <loc>//localhost:1313/eureka/</loc>
   </url><url>
+    <loc>//localhost:1313/fcketlist/</loc>
+  </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/blog/</loc>
+    <loc>//localhost:1313/readtoreach/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/home/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
